@@ -1,0 +1,4 @@
+# Credits
+
+Contributors:
+- Malgrieve
