@@ -2,6 +2,7 @@
 
 ## Northern Regions:
 Glacial Desert = Artic
+White Alps = Artic mountains
 Snowtops = Snow forest x blue forest
 Cursed Ridges = dark mountains
 Magiwoods = magic forest
@@ -9,28 +10,27 @@ Magiwoods = magic forest
 ## Western Regions:
 Darkwoods = cursed forest
 Talltrees = tall forest
-Lostlands = dustland x red forest
 Bogwamps = swamp
-Blue Tropics = tropics
-Spritshores = archipelagos
-Wilds = jungle
+Lostlands = dustland x red forest
+Moltwrens = volcanic
 
 ## Central Regions:
 Grand Mounts = rock mountains x caverns
 Lowfields = valley
 Runhills = hills x floating islands
 Calmplains = plains
-Lushwoods = terrace mountain x plataeu forest
+Blue Tropics = tropics
 
 ## Eastern Regions:
-White Alps = Artic mountains
 Peakspires = peaking mountain
 Riverwells = wetland
-Cragliffs = canyons
-
-## Southern Regions:
+Lushwoods = terrace mountain x plataeu forest
 Goldcoasts = beaches
 Sunbarrens = savanna
+
+## Southern Regions:
+Spritshores = archipelagos
+Wilds = jungle
+Cragliffs = canyons
 Scorchlands = desert x oasis
 Ghastmands = wasteland
-Moltwrens = volcanic
