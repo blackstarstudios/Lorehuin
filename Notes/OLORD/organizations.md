@@ -120,17 +120,62 @@ ____
 ____
 > Rune Academy
 
-____
+__ __
+> Bankers
+
+__ __
+> Arena Hosts
+
+__ __
+> Hospital
+
+__ __
+> Museum
+
+__ __
+> Auctioners
+
+__ __
+> Theatre Company
+
+__ __
+> Tavern
+
+__ __
+> Lawyers
+
+__ __
+> Head church
+
+__ __
+> 
+
+__ __
 >
 
-____
+__ __
 >
 
-____
+__ __
 >
 
-____
+__ __
 >
 
-____
+__ __
+>
+
+__ __
+>
+
+__ __
+>
+
+__ __
+>
+
+__ __
+>
+
+__ __
 >
