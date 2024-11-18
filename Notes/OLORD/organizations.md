@@ -148,25 +148,43 @@ __ __
 > Head church
 
 __ __
+> Slave trading company
+
+__ __
+> Brothel
+
+__ __
+> Private Army
+
+__ __
+> Casino
+
+__Oracle__
+> International police
+
+__ __
+> Spa resort
+
+__ __
+> Theater
+
+__ __
+> Drug lord organization
+
+__ __
+> Golem fight organization 
+
+__ __
+> Underground monster fight operation
+
+__ __
+> Musical group
+
+__ __
+> farming company
+
+__ __
 > 
-
-__ __
->
-
-__ __
->
-
-__ __
->
-
-__ __
->
-
-__ __
->
-
-__ __
->
 
 __ __
 >
