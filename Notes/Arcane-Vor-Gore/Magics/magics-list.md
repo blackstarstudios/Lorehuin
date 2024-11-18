@@ -2,6 +2,38 @@
 
 1 (Base Element) | 29 (Element Branch) | 5 (Branch Node) | 8 (Tier)
 
+Earth
+Water
+Air
+Fire
+Light
+Dark
+Space
+Time
+Ice
+Lava
+Storm
+Energy
+Sound
+Explosive
+Nuclear
+Plant
+Crystal
+Dream
+Fear
+Nightmare
+Shadow
+Poison
+Metal
+Lightning
+Toxic
+Blood
+Demon
+Holy
+Psyche
+Life
+Death
+
 Psyche Devil Incarnation Music Toxic Illusion Dream Nightmare Spirit Mud Float Speed Enchantment Mirror Rally Acid Field Weapon Armor Luck Scan Beast Game 
 Food Card Presence Law Attraction Rubber Purifying Soul Slayer Slime Rock Rain Wind Flame Radiant Shadow Position 
 Reduction Trap Barrier Stone Potion Flood Gust Blaze Luminous Balance Poison Black Domain Acceleration 
