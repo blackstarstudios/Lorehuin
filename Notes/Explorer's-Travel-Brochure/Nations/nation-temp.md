@@ -1,13 +1,27 @@
+# Nations
+
+Plaigeo
+Glaiview
+Serwheim
+Moljourn
+Calbrand
+Tupello
+Lumore
+Brellburg
+Rosngan
+Fechester
+Kerroport
+
 ## Northern Continent
 Alphi - White Alps: Artic Mountains
 Colmere - Glacial Desert: Artic
 Torfrost - Snowtops: Snow forest / blue forest
 
 ## Northwestern Continent
-- Darkwoods: Dark forest 
-- Talltrees: Tall forest
-- Lostlands: Dustlands
-- Moltwrens: Volcanic
+Yaleick - Darkwoods: Dark forest 
+Godgeram - Talltrees: Tall forest
+Druen - Lostlands: Dustlands
+Halerane - Moltwrens: Volcanic
 
 ## Southwestern Continent
 Baterie - Wilds: Jungle
@@ -22,13 +36,13 @@ Millsweet - Lowfields: Valley
 Yumland - Blue Tropics: Tropics 
 Raijia - Goldcoasts: Beaches
 Bacombe - Sunbarrens: Savanna
-- Lushwoods: Plateau forest / terrace mountains 
+Leardon - Lushwoods: Plateau forest / terrace mountains 
 
 ## Eastern Continent
 Tynfell - Peakspires: Peaking Mountains
 Altin - Riverwells: Wetlands
 
 ## Southern Continent
-- Spritshores: Archipelago / red forest
+Ionforte - Spritshores: Archipelago / red forest
 Noena - Cragliffs: Canyons
 Khasu - Scorchlands: Desert / Oasis
