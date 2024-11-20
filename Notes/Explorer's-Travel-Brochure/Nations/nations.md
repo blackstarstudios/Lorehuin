@@ -1,79 +1,4 @@
-Alphi glacial mountains 
-Altin flourishing wetlands
-Bacombe active savannah
-Baterie still jungle
-Brellburg underground cavern
-Colmere puercing arctic
-Caelbrand
-
-Dreun 
-Evern magical forest
-Ferrent breezy plains
-Fenchester
-Glaiview
-Gerkin damp swamp
-Godgeram
-
-Halerane
-Ionforte
-Kerroport calm island
-Khasu smoldering desert
-Leardon 
-Moljourn
-Metnir
-
-Millsweet
-Noena
-Plaigeo
-Rosngan
-Raijia
-Serwheim
-Torfrost
-
-Tupello
-Theses
-Tynfell
-Yaleick
-Yumland
-
-
-Artic Mountains -> Alphi
-Artic Plains -> Colmere
-Snow Forest -> Torfrost
-Snow Mountains -> Plaigeo
-Snow Plains -> Glaiview
-Blue Forest -> Serwheim
-Dark Mountains -> Rhaion 
-Volcanic -> Moljourn
-Swamp -> Gerkin
-Dark Forest -> Caelbrand
-Tall Forest -> Tupello
-Small Islands -> Leardon
-Wasteland -> Dien
-Dustland -> Druen
-Rock Mountains -> Metnir
-Caverns -> Brellburg
-Plains -> Ferrent
-Forest -> Godgeram
-Plataeu Forest -> Rosngan
-Valley -> Millsweet
-Hills -> Theses
-Peak Mountains -> Tynfell
-Wetlands -> Altin
-Jungle -> Baterie
-Magic Forest -> Evern
-Terraced Mountains -> Fechester
-Island -> Kerroport
-Floating Islands -> Ionforte
-Savanna -> Bacombe
-Canyons -> Noena
-Desert -> Khasu
-Beach -> Raijia
-Oasis -> Yaleick
-Tropics -> Yumland
-Red Forest -> Halerane
-
-# Nations
+# Nation notes
 
  Northern Nations:
 Alphi
@@ -99,7 +24,6 @@ Snow Mountains
 
 Glaiview
 Snow Plains
-
 
 
 Serwheim
