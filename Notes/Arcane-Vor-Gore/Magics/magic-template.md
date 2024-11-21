@@ -1,9 +1,9 @@
 # Magic Template
 
 ## Basic Tier Magics
-- 10000 __Earth Magic__ = Earth ==>  earth concept
-- 20000 __Water Magic__ = Water ==> water concept
-- 30000 __Air Magic__ = Air ==> air concept
+- 10011 __Earth Magic__ = Earth ==>  earth concept
+- 20011 __Water Magic__ = Water ==> water concept
+- 30011 __Air Magic__ = Air ==> air concept
 - 40011 __Fire Magic__ = Fire ==> fire concept
 - 50011 __Light Magic__ = Light ==> light concept
 - 60011 __Dark Magic__ = Dark ==> dark concept
@@ -125,7 +125,7 @@
 - 00005 __ Magic__ = Fire + Dark + Space ==> 
 - 00005 __ Magic__ = Fire + Dark + Time ==> 
 - 00005 __ Magic__ = Fire + Space + Time ==> 
-- 40055 __Lazer Magic__ = Ray + Ray (Light x16) ==> Strong concentrated light beam
+- 50055 __Lazer Magic__ = Ray + Ray (Light x16) ==> Strong concentrated light beam
 - 00005 __ Magic__ = Light + Dark + Space ==> 
 - 00005 __ Magic__ = Light + Dark + Time ==> 
 - 00005 __ Magic__ = Light + Space + Time ==> 
@@ -223,6 +223,15 @@
 - 60077 __Void Magic__ = Anti + Anti (Dark x64) ==> Use complete devour
 - 80077 __Gravity Magic__ = Subspace + Subspace (Space x64) ==> Use gravitational forces
 - 70077 __Infinite Magic__ = Temporal + Temporal (Time x64) ==> Control over all time
+
+- 10088 __Creation Magic__ = Divine + Mountain + Mountain (Earth x128) ==> 
+- 20088 __ Magic__ = Divine + Ocean + Ocean (Water x128) ==> 
+- 30088 __ Magic__ = Divine + Sky + Sky (Air x128) ==> 
+- 40088 __ Magic__ = Divine + Whitefire + Whitefire (Fire x128) ==> 
+- 50088 __Cosmic Magic__ = Divine + Sun + Sun (Light x128) ==> 
+- 60088 __Nothing Magic__ = Divine + Void + Void (Dark x128) ==>  
+- 70088 __Realm Magic__ = Divine + Gravity + Gravity (Space x128) ==> 
+- 80088 __Eternal Magic__ = Divine + Infinite + Infinite (Time x128) ==> 
 
 ## Divine Tier Magics
 - 00008 __ Magic__ = Divine + Earth + Water + Air + Fire + Light ==> 
