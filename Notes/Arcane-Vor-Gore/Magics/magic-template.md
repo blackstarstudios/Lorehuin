@@ -1,3 +1,5 @@
+# Magic Template
+
 ## Basic Tier Magics
 - 10000 __Earth Magic__ = Earth ==>  earth concept
 - 20000 __Water Magic__ = Water ==> water concept
@@ -20,33 +22,33 @@
 
 ## Mid Tier Magics
 - 10033 __Stone Magic__ = Rock + Rock (Earth x4) ==> stronger earth
-- 00003 __Mud Magic__ = Earth + Water ==> wet sludged earth
-- 00003 __Sand Magic__ = Earth + Air ==> dusty deserts
-- 40113__ __Lava Magic__ = Earth + Fire ==> 
-- 00003 __Crystal Magic__ = Earth + Light ==> 
+- 00003 __ Magic__ = Earth + Water ==> 
+- 00003 __ Magic__ = Earth + Air ==> 
+- 00003 __ Magic__ = Earth + Fire ==> 
+- 00003 __ Magic__ = Earth + Light ==> 
 - 00003 __ Magic__ = Earth + Dark ==> 
 - 00003 __ Magic__ = Earth + Space ==> 
 - 00003 __ Magic__ = Earth + Time ==> 
 - 20033 __Flood Magic__ = Rain + Rain (Water x4) ==> water overflow
-- 20113__ __Ice Magic__ = Water + Air ==> 
-- 00003 __Steam Magic__ = Water + Fire ==> 
+- 00003 __ Magic__ = Water + Air ==> 
+- 00003 __ Magic__ = Water + Fire ==> 
 - 00003 __ Magic__ = Water + Light ==> 
-- 00003 __Toxin Magic__ = Water + Dark ==> 
+- 00003 __ Magic__ = Water + Dark ==> 
 - 00003 __ Magic__ = Water + Space ==> 
 - 00003 __ Magic__ = Water + Time ==> 
 - 30033 __Gust Magic__ = Wind + Wind (Air x4) ==> stronger wind
-- 00003 __Smoke Magic__ = Air + Fire ==> 
+- 00003 __ Magic__ = Air + Fire ==> 
 - 00003 __ Magic__ = Air + Light ==> 
 - 00003 __ Magic__ = Air + Dark ==> 
 - 00003 __ Magic__ = Air + Space ==> 
-- 00003 __Sound Magic__ = Air + Time ==> sound waves
+- 00003 __ Magic__ = Air + Time ==>
 - 40033 __Blaze Magic__ = Flame + Flame (Fire x4) ==> stronger fire
 - 00003 __ Magic__ = Fire + Light ==> 
 - 00003 __ Magic__ = Fire + Dark ==> 
 - 00003 __ Magic__ = Fire + Space ==> 
 - 00003 __ Magic__ = Fire + Time ==> 
 - 50033 __Radiant Magic__ = Luminous + Luminous (Light x4) ==> Stronger light
-- 00003 __Balance Magic__ = Light + Dark ==> Equalibrium 
+- 00003 __ Magic__ = Light + Dark ==>  
 - 00003 __ Magic__ = Light + Space ==> 
 - 00003 __ Magic__ = Light + Time ==> 
 - 60033 __Black Magic__ = Shadow + Shadow (Dark x4) ==> 
@@ -68,7 +70,7 @@
 
 ## Advanced Tier Magics
 - 10055 __Igneous Magic__ = Bedrock + Bedrock (Earth x16) ==> Earth's inner structure
-- 00005 __Plant Magic__ = Earth + Water + Air ==> 
+- 00005 __ Magic__ = Earth + Water + Air ==> 
 - 00005 __ Magic__ = Earth + Water + Fire ==> 
 - 00005 __ Magic__ = Earth + Water + Light ==> 
 - 00005 __ Magic__ = Earth + Water + Dark ==> 
@@ -80,7 +82,7 @@
 - 00005 __ Magic__ = Earth + Air + Space ==> 
 - 00005 __ Magic__ = Earth + Air + Time ==> 
 - 00005 __ Magic__ = Earth + Fire + Light ==> 
-- 00005 __Metal Magic__ = Earth + Fire + Dark ==> 
+- 00005 __ Magic__ = Earth + Fire + Dark ==> 
 - 00005 __ Magic__ = Earth + Fire + Space ==> 
 - 00005 __ Magic__ = Earth + Fire + Time ==> 
 - 00005 __ Magic__ = Earth + Light + Dark ==> 
@@ -95,7 +97,7 @@
 - 00005 __ Magic__ = Water + Air + Dark ==> 
 - 00005 __ Magic__ = Water + Air + Space ==> 
 - 00005 __ Magic__ = Water + Air + Time ==> 
-- 00005 __Energy Magic__ = Water + Fire + Light ==> 
+- 00005 __ Magic__ = Water + Fire + Light ==> 
 - 00005 __ Magic__ = Water + Fire + Dark ==> 
 - 00005 __ Magic__ = Water + Fire + Space ==> 
 - 00005 __ Magic__ = Water + Fire + Time ==> 
@@ -106,13 +108,13 @@
 - 00005 __ Magic__ = Water + Dark + Time ==> 
 - 00005 __ Magic__ = Water + Space + Time ==> 
 - 30055 __Cyclone Magic__ = Vortex + Vortex (Air x16) ==> Destructive winds
-- 00005 __Lightning Magic__ = Air + Fire + Light ==> 
+- 00005 __ Magic__ = Air + Fire + Light ==> 
 - 00005 __ Magic__ = Air + Fire + Dark ==> 
 - 00005 __ Magic__ = Air + Fire + Space ==> 
 - 00005 __ Magic__ = Air + Fire + Time ==> 
 - 00005 __ Magic__ = Air + Light + Dark ==> 
 - 00005 __ Magic__ = Air + Light + Space ==> 
-- 00005 __Music Magic__ = Air + Light + Time ==> 
+- 00005 __ Magic__ = Air + Light + Time ==> 
 - 00005 __ Magic__ = Air + Dark + Space ==> 
 - 00005 __ Magic__ = Air + Dark + Time ==> 
 - 00005 __ Magic__ = Air + Space + Time ==> 
