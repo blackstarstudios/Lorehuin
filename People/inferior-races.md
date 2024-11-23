@@ -19,7 +19,7 @@ Asian influence
 Native to Calmplains and Runhills
 European influence
 
-### Carmiseans
+### Carmisseans
 Native to the Goldcoasts
 Latino/Hispanic influence
 

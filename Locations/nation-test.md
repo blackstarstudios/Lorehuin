@@ -1,12 +1,5 @@
 # Introduction
 
-The Snowpeaks
-
-⁃ Dragonkin
-
-⁃ Magical advances & aurora lights
-
-⁃ Magocracy - Mage leadership
 
 ## Background
 
@@ -33,9 +26,11 @@ The Snowpeaks
 
 ## Natural resources
 
-## Major lakes
+## Land use
 
-## Major rivers
+## Major lakes (area sq km)
+
+## Major rivers (by length in km)
 
 ## Population distribution
 

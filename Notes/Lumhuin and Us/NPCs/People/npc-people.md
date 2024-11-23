@@ -221,7 +221,7 @@ __Noena’s Colony Queen__
 __Top Noena Guard__
 : Orthix, Armored Dragon (Pangolin Clan)
 > The best guard of Noena. His Armor-plated body along with his unique basilisk slaying greatsword earned him his nickname (Inspired by Takeshi Kido from Killing Bites)
-
+ 
 ## Millsweet based NPCs
 
 __Millsweet’s Sovereign__

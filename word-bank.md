@@ -1,9 +1,22 @@
 # Word Bank
 
-## Name
+## Places
+Plaigeo
+Glaiview
+Serwheim
+Moljourn
+Calbrand
+Tupello
+Lumore
+Brellburg
+Rosngan
+Fechester
+Kerroport
 
-## Title
+## Peop,es
+
+## Titles
 The Lord of Night
 
-## Ability
+## Abilities
 
