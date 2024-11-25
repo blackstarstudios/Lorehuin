@@ -1,1 +1,0 @@
-Prophets - gods’ chosen messengers for carrying out their goals and ambitions
