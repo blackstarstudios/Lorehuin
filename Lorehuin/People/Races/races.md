@@ -1,7 +1,16 @@
-# Superior Races
+# Races
 
-## Introduciton
+## Introduction
 
+## Inferior Races
+### Human Races
+
+
+### Non-Human Races
+
+### Beastmen
+
+## Superior Races
 ## Angels
 
 ## Demons
