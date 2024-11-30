@@ -1,5 +1,6 @@
 # Afterword
-
+I hope you enjoyed my art!
+- Malgrieve
 
 ---
 
