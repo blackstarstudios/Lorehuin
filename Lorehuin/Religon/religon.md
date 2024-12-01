@@ -18,13 +18,13 @@ The keepers of the Oververse. These harkoned beings protect the realms they resi
 
 ## Hatosphere
 ### Minor Stars
-These stars are manifestations of mortalian desires and retain power from the strength of their followers. The most powerful Gods rival Guardian Beasts in strength.
+These stars are manifestations of mortalian desires and retain power from the strength of their followers. The most powerful Dieties rival Guardian Beasts in strength.
 
 ### Half Stars
 These beings are bore from the holy gift of divine nature to a mortal being. These Demigods.
 
-### Champions
-The chosen swords of the Stars, their Champions! These mortals live, breath, and die following their serving Gods commands. Only Latospherian Gods have the authority and power to bestow their power to born a champion.
-
 ### Prophets
 A select few mortals that the Gods have deemed worthy enough to deliver their message. 
+
+### Champions
+The chosen swords of the Stars, their Champions! These mortals live, breath, and die following their serving Gods commands. Only Latospherian Gods have the authority and power to bestow their power to born a champion.
