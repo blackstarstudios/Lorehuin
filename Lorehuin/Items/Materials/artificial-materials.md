@@ -1,4 +1,4 @@
-# Man-made Materials
+# Artificial Materials
 
 ## Introduction
 

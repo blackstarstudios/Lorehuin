@@ -1,4 +1,4 @@
-# Beasts
+# Infernal Monsters
 
 ## Introduction
 

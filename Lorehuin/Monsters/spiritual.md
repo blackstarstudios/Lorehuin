@@ -1,4 +1,4 @@
-# Beasts
+# Spiritual Monsters
 
 ## Introduction
 

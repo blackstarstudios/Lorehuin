@@ -1,4 +1,4 @@
-# Beasts
+# Undead Monsters
 
 ## Introduction
 

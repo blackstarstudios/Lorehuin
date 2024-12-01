@@ -1,3 +1,5 @@
+# Insect Monsters
+
 - Anansi/Iktomi (Trickster spider)
 - Arachne (Spider queen woman)
 - Gold-Digging Ant

@@ -1,4 +1,4 @@
-# Beasts
+# Avian Monsters
 
 ## Introduction
 

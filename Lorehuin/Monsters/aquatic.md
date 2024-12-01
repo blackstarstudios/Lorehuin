@@ -1,4 +1,4 @@
-# Beasts
+# Aquatic Monsters
 
 ## Introduction
 

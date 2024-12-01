@@ -1,4 +1,4 @@
-# Beasts
+# Amorphous Monsters
 
 ## Introduction
 

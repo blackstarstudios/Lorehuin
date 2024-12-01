@@ -1,4 +1,4 @@
-# Beasts
+# Humanoid Monsters
 
 ## Introduction
 

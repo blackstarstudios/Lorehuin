@@ -1,4 +1,4 @@
-# Beasts
+# Celestial Monsters
 
 ## Introduction
 

@@ -1,3 +1,5 @@
+# Start Guide
+
 ⁃ Start game
 
 ⁃ Pick name

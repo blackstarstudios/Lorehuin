@@ -1,4 +1,4 @@
-# Beasts
+# Geological Monsters
 
 ## Introduction
 

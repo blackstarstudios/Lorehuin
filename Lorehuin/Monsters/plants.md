@@ -1,4 +1,4 @@
-# Beasts
+# Plant Monsters
 
 ## Introduction
 
